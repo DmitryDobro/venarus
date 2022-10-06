@@ -1,0 +1,1 @@
+import"./styles/scss/main.scss";import"./scripts/test";import"./scripts/mainPage-swiper";
